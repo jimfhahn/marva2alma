@@ -1,4 +1,4 @@
-# marva2alma
+# marva2alma [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jimfhahn/marva2alma/main?filepath=marva2alma.ipynb)
 This notebook demonstrates how you can use a work and instance from the Marva editor to post as a concise bounded BIBFRAME description to Alma
 
 ### Before running, add a .env file to the root directory with the following:
