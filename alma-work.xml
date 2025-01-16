@@ -1,0 +1,248 @@
+<bib>
+    <record_format>lcbf_work</record_format>
+    <suppress_from_publishing>false</suppress_from_publishing>
+    <record>
+        <rdf:RDF xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bfsimple="http://id.loc.gov/ontologies/bfsimple/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:lclocal="http://id.loc.gov/ontologies/lclocal/" xmlns:pmo="http://performedmusicontology.org/ontology/" xmlns:datatypes="http://id.loc.gov/datatypes/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:mstatus="https://id.loc.gov/vocabulary/mstatus/" xmlns:mnotetype="http://id.loc.gov/vocabulary/mnotetype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:void="http://rdfs.org/ns/void#" xmlns:lcc="http://id.loc.gov/ontologies/lcc#">
+            <bf:Work xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bfsimple="http://id.loc.gov/ontologies/bfsimple/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:lclocal="http://id.loc.gov/ontologies/lclocal/" xmlns:pmo="http://performedmusicontology.org/ontology/" xmlns:datatypes="http://id.loc.gov/datatypes/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:mstatus="https://id.loc.gov/vocabulary/mstatus/" xmlns:mnotetype="http://id.loc.gov/vocabulary/mnotetype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:void="http://rdfs.org/ns/void#" xmlns:lcc="http://id.loc.gov/ontologies/lcc#" rdf:about="http://id.loc.gov/resources/works/23679002">
+  <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Text"/>
+  <bf:title>
+    <bf:Title>
+      <bf:mainTitle>The Routledge handbook of Christianity and culture</bf:mainTitle>
+      <bflc:nonSortNum>4</bflc:nonSortNum>
+    </bf:Title>
+  </bf:title>
+  <bf:tableOfContents>
+    <bf:TableOfContents>
+      <rdfs:label>Material Christianity / Minna Opas -- The impact of Bible translations on the English language and Anglophone cultures / Gregor Thuswaldner -- Christianity and culture wars in the US, Europe, and Australia / Jeffrey Haynes -- Christianity and culture in Africa / James Amanze and Kenneth Ross -- Christianity and architecture / David Bains.</rdfs:label>
+    </bf:TableOfContents>
+  </bf:tableOfContents>
+  <bf:summary>
+    <bf:Summary>
+      <rdfs:label>The centrality and importance of the intersection of Christianity and culture when it comes to English speaking countries and particularly American culture, history, and politics is beyond doubt. The Routledge Handbook of Christianity and Culture is an outstanding reference source to the key topics, problems and debates in this exciting subject. Comprising over thirty-five chapters by a team of international contributors the Handbook is divided into five parts: Practicing Christianity Christianity and the word Christianity and politics Christianity and culture in a global context Christianity and the arts. Within these sections central issues, debates and problems are examined, including: liturgy, material Christianity, education, missions, religion and science, hermeneutics, Bible translations, Christian wars, human rights, law, social action, the secular, ecumenicalism, inter-religious relations, visual arts, literature, music, theatre and film. The Routledge Handbook of Christianity and Culture is essential reading for students and researchers in religious studies and Christian studies. The Handbook will also be very useful for those in related fields, such as cultural studies, area studies, visual studies, literature and material religion. Yaakov"- Provided by publisher.</rdfs:label>
+    </bf:Summary>
+  </bf:summary>
+  <bf:subject>
+    <bf:Topic rdf:about="http://id.loc.gov/authorities/subjects/sh85025240">
+      <rdfs:label xml:lang="en">Christianity and culture</rdfs:label>
+      <bflc:marcKey>150  $aChristianity and culture</bflc:marcKey>
+    </bf:Topic>
+  </bf:subject>
+  <bf:classification>
+    <bf:ClassificationLcc>
+      <bf:classificationPortion>BR115.C8</bf:classificationPortion>
+      <bf:itemPortion>R665 2025</bf:itemPortion>
+      <bf:assigner>
+        <bf:Organization rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+          <rdfs:label>United States, Library of Congress</rdfs:label>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</bf:code>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</bf:code>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</bf:code>
+        </bf:Organization>
+      </bf:assigner>
+      <bf:status>
+        <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/uba">
+          <rdfs:label>used by assigner</rdfs:label>
+          <bf:code>uba</bf:code>
+        </bf:Status>
+      </bf:status>
+    </bf:ClassificationLcc>
+  </bf:classification>
+  <bf:classification>
+    <bf:ClassificationDdc>
+      <bf:classificationPortion>261</bf:classificationPortion>
+      <bf:source>
+        <bf:Source>
+          <bf:code>23/eng</bf:code>
+        </bf:Source>
+      </bf:source>
+      <bf:edition>full</bf:edition>
+      <bf:assigner>
+        <bf:Organization rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+          <rdfs:label>United States, Library of Congress</rdfs:label>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</bf:code>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</bf:code>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</bf:code>
+        </bf:Organization>
+      </bf:assigner>
+    </bf:ClassificationDdc>
+  </bf:classification>
+  <bf:content>
+    <bf:Content rdf:about="http://id.loc.gov/vocabulary/contentTypes/txt">
+      <rdfs:label>text</rdfs:label>
+      <bf:code>txt</bf:code>
+    </bf:Content>
+  </bf:content>
+  <bf:language>
+    <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng">
+      <rdfs:label xml:lang="en">English</rdfs:label>
+      <bf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eng</bf:code>
+    </bf:Language>
+  </bf:language>
+  <bf:supplementaryContent>
+    <bf:SupplementaryContent rdf:about="http://id.loc.gov/vocabulary/msupplcont/bibliography">
+      <rdfs:label>bibliography</rdfs:label>
+      <bf:code>bibliography</bf:code>
+    </bf:SupplementaryContent>
+  </bf:supplementaryContent>
+  <bf:supplementaryContent>
+    <bf:SupplementaryContent rdf:about="http://id.loc.gov/vocabulary/msupplcont/bibliography">
+      <rdfs:label>bibliography</rdfs:label>
+      <bf:code>bibliography</bf:code>
+    </bf:SupplementaryContent>
+  </bf:supplementaryContent>
+  <bf:adminMetadata>
+    <bf:AdminMetadata>
+      <bf:descriptionLevel rdf:resource="http://id.loc.gov/ontologies/bibframe-2-4-0/"/>
+      <bflc:encodingLevel>
+        <bflc:EncodingLevel rdf:about="http://id.loc.gov/vocabulary/menclvl/8">
+          <rdfs:label>prepublication</rdfs:label>
+          <bf:code>8</bf:code>
+        </bflc:EncodingLevel>
+      </bflc:encodingLevel>
+      <bf:descriptionConventions>
+        <bf:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/isbd">
+          <rdfs:label>ISBD: International standard bibliographic description</rdfs:label>
+          <bf:code>isbd</bf:code>
+        </bf:DescriptionConventions>
+      </bf:descriptionConventions>
+      <bf:descriptionConventions>
+        <bf:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/rda">
+          <rdfs:label>Resource description and access</rdfs:label>
+          <bf:code>rda</bf:code>
+        </bf:DescriptionConventions>
+      </bf:descriptionConventions>
+      <bf:identifiedBy>
+        <bf:Local>
+          <rdf:value>23679002</rdf:value>
+          <bf:assigner>
+            <bf:Organization rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+              <rdfs:label>United States, Library of Congress</rdfs:label>
+              <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</bf:code>
+              <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</bf:code>
+              <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</bf:code>
+            </bf:Organization>
+          </bf:assigner>
+        </bf:Local>
+      </bf:identifiedBy>
+      <lclocal:d906>=906     $a 7 $b cbc $c orignew $d 1 $e ecip $f 20 $g y-gencatlg</lclocal:d906>
+      <lclocal:d925>=925  0  $a acquire $b 1 shelf copy $x policy default</lclocal:d925>
+      <lclocal:d955>=955     $b rk26 2024-05-07 $c rk26 2024-08-01 to subject $r rk11 2024-09-26 $d rk11 2024-09-26 to Dewey $w xm08 2024-09-26</lclocal:d955>
+      <bf:descriptionLanguage>
+        <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng">
+          <rdfs:label xml:lang="en">English</rdfs:label>
+          <bf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eng</bf:code>
+        </bf:Language>
+      </bf:descriptionLanguage>
+      <bf:note>
+        <bf:Note>
+          <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/internal"/>
+          <rdfs:label>040  $aDLC$beng$erda$cDLC$dDLC$dDLC-MRC$dDLC</rdfs:label>
+        </bf:Note>
+      </bf:note>
+      <bf:descriptionAuthentication>
+        <bf:DescriptionAuthentication rdf:about="http://id.loc.gov/vocabulary/marcauthen/pcc">
+          <rdfs:label>Program for Cooperative Cataloging</rdfs:label>
+          <bf:code>pcc</bf:code>
+        </bf:DescriptionAuthentication>
+      </bf:descriptionAuthentication>
+      <lclocal:d985>=985     $e BIBFRAME Prod $d 2024-09-26T09:30:28</lclocal:d985>
+    </bf:AdminMetadata>
+  </bf:adminMetadata>
+  <bf:adminMetadata>
+    <bf:AdminMetadata>
+      <bf:status>
+        <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+          <rdfs:label>changed</rdfs:label>
+          <bf:code>c</bf:code>
+        </bf:Status>
+      </bf:status>
+      <bf:agent>
+        <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlcmrc">
+          <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+          <rdfs:label>United States, Library of Congress, Network Development and MARC Standards Office</rdfs:label>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC-MRC</bf:code>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlcmrc</bf:code>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlcmrc</bf:code>
+        </bf:Agent>
+      </bf:agent>
+      <bf:generationProcess rdf:resource="https://github.com/lcnetdev/marc2bibframe2/releases/tag/v2.8.0"/>
+      <bf:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-11-08T08:33:47.925751-05:00</bf:date>
+    </bf:AdminMetadata>
+  </bf:adminMetadata>
+  <bf:adminMetadata>
+    <bf:AdminMetadata>
+      <bf:status>
+        <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+          <rdfs:label>changed</rdfs:label>
+          <bf:code>c</bf:code>
+        </bf:Status>
+      </bf:status>
+      <bf:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-26T09:30:28</bf:date>
+      <bf:agent>
+        <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+          <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+          <rdfs:label>United States, Library of Congress</rdfs:label>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</bf:code>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</bf:code>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</bf:code>
+        </bf:Agent>
+      </bf:agent>
+      <bf:generationProcess rdf:resource="https://github.com/lcnetdev/bibframe2marc/releases/tag/v2.8.0"/>
+    </bf:AdminMetadata>
+  </bf:adminMetadata>
+  <bf:adminMetadata>
+    <bf:AdminMetadata>
+      <bf:status>
+        <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+          <rdfs:label>changed</rdfs:label>
+          <bf:code>c</bf:code>
+        </bf:Status>
+      </bf:status>
+      <bf:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-26T09:42:14</bf:date>
+      <bf:descriptionModifier>
+        <bf:Organization rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+          <rdfs:label>United States, Library of Congress</rdfs:label>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</bf:code>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</bf:code>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</bf:code>
+        </bf:Organization>
+      </bf:descriptionModifier>
+    </bf:AdminMetadata>
+  </bf:adminMetadata>
+  <bf:adminMetadata>
+    <bf:AdminMetadata>
+      <bf:status>
+        <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/n">
+          <rdfs:label>new</rdfs:label>
+          <bf:code>n</bf:code>
+        </bf:Status>
+      </bf:status>
+      <bf:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-05-07</bf:date>
+      <bf:agent>
+        <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+          <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+          <rdfs:label>United States, Library of Congress</rdfs:label>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/code">DLC</bf:code>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/normalized">dlc</bf:code>
+          <bf:code rdf:datatype="http://id.loc.gov/datatypes/orgs/iso15511">US-dlc</bf:code>
+        </bf:Agent>
+      </bf:agent>
+    </bf:AdminMetadata>
+  </bf:adminMetadata>
+  <sourcetext xmlns="http://www.mozilla.org/newlayout/xml/parsererror.xml">        &lt;bf:relation local:pthint="lc:RT:bf2:SeriesHub"&gt;
+--------^</sourcetext>
+  <bf:adminMetadata>
+    <bf:AdminMetadata>
+      <bf:date>2025-01-16T19:55:05.822Z</bf:date>
+      <bflc:catalogerId>PAU</bflc:catalogerId>
+      <bf:status>
+        <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+          <rdfs:label>changed</rdfs:label>
+        </bf:Status>
+      </bf:status>
+    </bf:AdminMetadata>
+  </bf:adminMetadata>
+</bf:Work>
+        </rdf:RDF>
+    </record>
+</bib>
