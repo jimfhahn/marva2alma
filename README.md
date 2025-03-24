@@ -18,3 +18,6 @@ Region details and API key generation for your Alma system can be found here: [A
 | China         | https://api-cn.hosted.exlibrisgroup.com.cn |
 
 
+## Acknowledgements
+
+This notebook was developed with the help of [GitHub Copilot](https://github.com/features/copilot), an AI pair programmer that assisted with code suggestions.
